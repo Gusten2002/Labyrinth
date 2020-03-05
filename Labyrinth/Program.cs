@@ -9,7 +9,7 @@ namespace Labyrinth
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //Test
         {
             Console.WriteLine("You walked into my labyrinth, were no one has yet to get out alive.");
             Thread.Sleep(2000);
